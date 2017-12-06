@@ -1,5 +1,5 @@
 [package]
-name = "rusticles"
+name = "adventofcode"
 version = "0.1.0"
 authors = ["Andrey Petrov <andrey.petrov@shazow.net>"]
 
